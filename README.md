@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=&center=true&random=false&width=435&lines=Hi%F0%9F%91%8B%2C++Mi+name+is+Agustin+Urrutia;+and+i'm+Full+Stack+Developer%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=E5BDF7&center=true&multiline=true&random=false&width=435&lines=Hi%F0%9F%91%8B%2C++Mi+name+is+Agustin+Urrutia;+and+i'm+Full+Stack+Developer%F0%9F%9A%80)](https://git.io/typing-svg)
 <!--
 **AgusUrrutia/AgusUrrutia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
